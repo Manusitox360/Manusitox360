@@ -1,7 +1,7 @@
 ## Hi there, I´m Manuel👋
 # Hi, 
 Hello! I am a Backend web developer in progress, i got experience building web applications. I am passionate about programming and I make it a priority to learn and stay updated on new technologies and frameworks. I am excited to contribute to teams dedicated to developing successful web applications.
-## :martillo_y_llave_inglesa:  Stack
+## 🛠  Stack
 Here is the set of technologies, tools, and platforms I use in my projects.
 ---
 # 🌍 Frontend
