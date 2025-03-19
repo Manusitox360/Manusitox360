@@ -42,5 +42,5 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 # 📬 Contact
 You can contact me here:
 - [espinosaguillenmanuel@gmail.com](mailto:espinosaguillenmanuel@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/manuel-espinosa-guillén-950781294/)
+- [LinkedIn](https://www.linkedin.com/in/manuel-espinosa-guillen/)
 ---
