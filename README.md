@@ -9,11 +9,14 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 | ![HTML5](https://skillicons.dev/icons?i=html) | **HTML5**  |
 | ![CSS3](https://skillicons.dev/icons?i=css) | **CSS3**   |
 | ![JavaScript](https://skillicons.dev/icons?i=js) | **JavaScript (ES6+)** |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) | **Tailwind**   |
+| ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | **Bootstrap**   |
 ---
 ## ⚙️ Backend
 |  |  |
 |-------|------------|
 | ![Php](https://skillicons.dev/icons?i=php) | **Php**   |
+| ![Laravel](https://skillicons.dev/icons?i=laravel) | **Laravel** |
 | ![Python](https://skillicons.dev/icons?i=python) | **Python**   |
 | ![Django](https://skillicons.dev/icons?i=django) | **Django**   |
 ---
@@ -27,20 +30,25 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 |  |  |
 |-------|------------|
 | ![Docker](https://skillicons.dev/icons?i=docker) | **Docker**    |
+| ![AWS](https://skillicons.dev/icons?i=aws) | **AWS**   |
 ---
 ## 👨‍💻 Tools && Others
 |  |  |
 |-------|------------|
 | ![Git](https://skillicons.dev/icons?i=git) | **Git**           |
-| ![GitHub](https://skillicons.dev/icons?i=github) | **GitHub**
+| ![GitHub](https://skillicons.dev/icons?i=github) | **GitHub** |
 | ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | **Visual Studio Code** |
 | ![Visual Studio Community](https://skillicons.dev/icons?i=visualstudio) | **Visual Studio Community**        |
+| ![Postman](https://skillicons.dev/icons?i=postman) | **Postman**   |
 ---
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manusitox360&show_icons=true&theme=tokyonight&custom_title=Manusitox360+Stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manusitox360&layout=compact&theme=tokyonight&custom_title=Manusitox360+Stats)
 ---
 # 📬 Contact
-You can contact me here:
-- [espinosaguillenmanuel@gmail.com](mailto:espinosaguillenmanuel@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/manuel-espinosa-guillen/)
+You can contact me here
+|  |  |
+|-------|------------|
+| ![Gmail](https://skillicons.dev/icons?i=gmail) | [espinosaguillenmanuel@gmail.com](mailto:espinosaguillenmanuel@gmail.com) |
+| ![LinkedIn](https://skillicons.dev/icons?i=linkedin) | [LinkedIn](https://www.linkedin.com/in/manuel-espinosa-guillen/) |
 ---
