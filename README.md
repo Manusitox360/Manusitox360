@@ -17,6 +17,7 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 |-------|------------|
 | ![Php](https://skillicons.dev/icons?i=php) | **Php**   |
 | ![Laravel](https://skillicons.dev/icons?i=laravel) | **Laravel** |
+| ![Java](https://skillicons.dev/icons?i=java) | **Java** |
 | ![Python](https://skillicons.dev/icons?i=python) | **Python**   |
 | ![Django](https://skillicons.dev/icons?i=django) | **Django**   |
 ---
@@ -40,6 +41,7 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 | ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | **Visual Studio Code** |
 | ![Visual Studio Community](https://skillicons.dev/icons?i=visualstudio) | **Visual Studio Community**        |
 | ![Postman](https://skillicons.dev/icons?i=postman) | **Postman**   |
+| ![IntelliJ](https://skillicons.dev/icons?i=idea) | **IntelliJ** |
 ---
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manusitox360&show_icons=true&theme=tokyonight&custom_title=Manusitox360+Stats)
